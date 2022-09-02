@@ -1,5 +1,5 @@
-1) Extract the whole zip
+sup nerds
 
-2) Open "super-mario-age-of-airship-engine.exe" to start the app.
+i cant upload everything here unfortunately
 
-Open "licenses.html" for information regarding open source software used by the app.
+so yeah
